@@ -1,0 +1,4 @@
+int f, dsf[];
+
+float _1dsf;
+float f2;
